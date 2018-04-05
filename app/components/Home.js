@@ -12,6 +12,7 @@ class Home extends Component {
 			textAlign: 'center',
 			fontSize: '40px'
 		};
+
 		return (
 			<div style={styleDiv}>
 				<h1 style={styleH1}>Editor Text React</h1>
